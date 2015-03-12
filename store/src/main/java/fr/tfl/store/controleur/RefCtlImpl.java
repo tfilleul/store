@@ -30,9 +30,5 @@ public class RefCtlImpl extends AbstractStoreCtlImpl {
         return ref;
 	}
 
-	public void setRefService(IRefService refService) {
-		this.refService = refService;
-	}
-	
 
 }
